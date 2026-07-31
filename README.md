@@ -11,7 +11,7 @@
 
 ### About
 
-Third-year CS student at **Eötvös Loránd University (ELTE)**, Budapest — GPA 3.9/5, graduating July 2026.
+CS student at **Eötvös Loránd University (ELTE)**, Budapest — GPA 3.9/5, graduating January 2027.
 I focus on backend systems: REST APIs, authentication, and data modeling with Java/Spring Boot, backed by
 PostgreSQL and shipped with Docker + CI/CD. Previously built C++ firmware for drone systems.
 
